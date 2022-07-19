@@ -1,0 +1,34 @@
+print("HEllo World")
+
+a = 100
+
+print (a)
+
+b = input("Enter the value  Value B : ")
+
+print (" B : ", b)
+
+c =98
+
+d = 2
+
+print(c+d)
+
+e = c/d
+print(e)
+
+k = ('Bhaskar','Kittu','Yerri naidu','Ramanamma')
+print (k)
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(k))
+
+m = input("Enter the Value num one M : ")
+n = input("Enter the Value num two N : ")
+
+if(m>n):
+ print(m)
+else:
+ print(n)
